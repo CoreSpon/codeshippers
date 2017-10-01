@@ -2,10 +2,10 @@
 Classes with slides and source code
 
 
-Colons can be used to align columns.
+What you will Learn:
 
-| Tables        | Are           | Cool  |
+| Lessons       | Topics        | Time  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Lesson_1      | right-aligned | $1600 |
+| Lesson_2      | centered      |   $12 |
+| Lesson_3      | are neat      |    $1 |
