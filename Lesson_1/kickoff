@@ -1,0 +1,26 @@
+#!/bin/bash
+
+#Creates the file touch.sh
+touch gitpush.sh
+
+
+#Makes a clone (copy) of old file called gitpush to gitpull.sh
+cp gitpush.sh  gitpull.sh
+
+
+#Inserts (prints) message from echo into file
+echo "git pull" >> gitpull.sh
+
+
+#Inserts the contents of the first file into the second
+cat gitpull.sh >> gitpush.sh
+
+#Mark the two files with excute only privilleges
+chmod 755 gitpull.sh
+chmod 755 gitpush.sh
+
+
+#Now go to Lesson 2
+source ../Lesson_2/announcement.sh
+
+
