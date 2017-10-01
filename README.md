@@ -12,3 +12,6 @@ What you will Learn:
 | Lesson_4      | Iteration       | 10mins|
 
 ---
+
+Feel free to checkout our go_lang videos at: 
+https://www.sponcore.com/computer-training
