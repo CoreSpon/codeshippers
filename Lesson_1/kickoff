@@ -21,6 +21,20 @@ chmod 755 gitpush.sh
 
 
 #Now go to Lesson 2
-source ../Lesson_2/announcement.sh
+
+#Goes back one directory Changes directory to Lesson_2
+#If you made this far.... Its time for  Lesson 2
+cd ..
 
 
+ls 
+
+sleep 1
+
+cd Lesson_2
+
+ls
+
+chmod 755 announcement.sh
+
+source announcement.sh
