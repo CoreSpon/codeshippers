@@ -11,3 +11,4 @@ What you will Learn:
 | Lesson_3      | Logic Statements| 10mins|
 | Lesson_4      | Iteration       | 10mins|
 
+---
