@@ -20,21 +20,30 @@ chmod 755 gitpull.sh
 chmod 755 gitpush.sh
 
 
-#Now go to Lesson 2
+###################Now go to Lesson 2###############
 
 #Goes back one directory Changes directory to Lesson_2
 #If you made this far.... Its time for  Lesson 2
-cd ..
 
 
-ls 
+############################# Next set of commands
+echo "stop here"
+sleep 10
 
-sleep 1
 
-cd Lesson_2
 
-ls
 
-chmod 755 announcement.sh
+#cd ..
 
-source announcement.sh
+
+#ls 
+
+#sleep 1
+
+#cd Lesson_2
+
+#ls
+
+#chmod 755 announcement.sh
+
+#source announcement.sh
